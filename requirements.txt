@@ -1,0 +1,17 @@
+streamlit
+pandas
+bcrypt
+boto3
+apify-client
+openpyxl
+python-dotenv
+email-validator
+pyzmail36
+imapclient
+fitz
+spacy
+nameparser
+docx2txt
+fastapi
+uvicorn
+python-multipart  # Needed if sending files later
